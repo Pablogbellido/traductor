@@ -1,0 +1,9 @@
+patata,potato
+mar,sea
+delfín,dolphin
+tigre,tiger
+madre,mother
+padre,father
+mesa,table
+chico,boy
+chica,girl
