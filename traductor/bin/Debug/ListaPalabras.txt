@@ -7,3 +7,14 @@ padre,father
 mesa,table
 chico,boy
 chica,girl
+computador,computer
+perro,dog
+gato,cat
+impresora,printer
+altavoces,speaker
+lampara,lamp
+lapiz,pen
+llaves,keys
+llave,key
+billetera,wallet
+libreta,notebook
